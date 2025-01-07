@@ -1,7 +1,7 @@
 # 🎨 AIndy Warhol Agent
 ### *Powered By [Eliza Framework](https://ai16z.github.io/eliza/)* 🤖
 
-![AIndy Warhol Banner](assets/banner.png)
+![AIndy Warhol Banner](https://github.com/AIndyWarhol/AIndyAgent/blob/main/soup_banner.png)
 
 ## 🌟 Welcome to AIndyAgent
 
